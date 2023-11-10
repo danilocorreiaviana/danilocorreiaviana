@@ -5,7 +5,7 @@
 ## 🖖 Olá, tudo bem? Eu sou Danilo.
 Meu nome é Danilo Correia Viana .
 Sou um profissional que busca constantemente aprimorar meus conhecimentos
-e habilidades, especialmente nas áreas de tecnologia. Me indentifico muito com o desenvolvimento Front-End e sou estudante universitário.
+e habilidades, especialmente nas áreas de tecnologia. Me identifico muito com o desenvolvimento Front-End e sou estudante universitário.
 
 👨‍🎓 Atualmente sou graduando em Bacharelado em Sistemas de Informação pelo IFCE-Campus Crato.
 
